@@ -3,6 +3,8 @@ Grab DXpedition callsigns and dates from DXNews and others
 
 Watch this video for all the info on how to use it : [HERE](https://youtu.be/-u_xuLOUVCk)
 
+https://github.com/ramdor/DXPedGrabber
+
 Free Use Software Licence Agreement
 
 This Software Licence Agreement ("Agreement") governs the use of the software ("Software") provided by [Blitter8 Ltd.] ("Licensor"). By using the Software, you agree to the terms set forth in this Agreement.
