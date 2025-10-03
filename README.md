@@ -5,7 +5,7 @@ Watch this video for all the info on how to use it : [HERE](https://youtu.be/-u_
 
 <img width="914" height="580" alt="image" src="https://github.com/user-attachments/assets/fe166869-37a0-4936-a895-4598e93813e0" />
 
-##########################
+## Software to grab DXpedition callsigns
 
 Free Use Software Licence Agreement
 
@@ -31,3 +31,8 @@ The Software is provided "as is," without warranty of any kind, express or impli
 
 6. Termination
 This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term of this Agreement.
+
+7. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the United Kingdom.
+
+Richard Samphire - Blitter8 Ltd. - MW0LGE
