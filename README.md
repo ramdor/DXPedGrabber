@@ -6,6 +6,7 @@ Watch this video for all the info on how to use it : [HERE](https://youtu.be/-u_
 <img width="914" height="580" alt="image" src="https://github.com/user-attachments/assets/fe166869-37a0-4936-a895-4598e93813e0" />
 
 
+
 Free Use Software Licence Agreement
 
 This Software Licence Agreement ("Agreement") governs the use of the software ("Software") provided by [Blitter8 Ltd.] ("Licensor"). By using the Software, you agree to the terms set forth in this Agreement.
