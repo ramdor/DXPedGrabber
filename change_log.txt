@@ -1,0 +1,6 @@
+v1.0.3
+- added refresh button to get new data
+- removed timed updates
+
+v1.0.2
+- initial release
