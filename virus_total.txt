@@ -1,5 +1,5 @@
-v1.0.3 VirusTotal link
+v1.0.4 VirusTotal link
 
-https://www.virustotal.com/gui/file/8641d5f5b13458b67669f3fb9ad118742a1f8d099444825127dd7a2d649b5fb4?nocache=1
+https://www.virustotal.com/gui/file/83c94379930ddf1134a27803406110dadd023ccc21b4942d09d3392a1b1af8b9?nocache=1
 
 73 Richie - MW0LGE
